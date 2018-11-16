@@ -1,0 +1,136 @@
+body {
+    background-image: url("../images/background.jpg");
+
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blue;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    background-color: pink;
+    margin-top: 0px;
+    margin-left: 350px;
+    margin-bottom: 5px;
+    margin-right: 350px;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blue;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    background-color: violet;
+    margin-top: 0px;
+    margin-left: 150px;
+    margin-bottom: 0px;
+    margin-right: 150px;
+
+}
+
+.container {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    margin-top: 0px;
+    margin-right: 700px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    background-color: aliceblue;
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+    color: blue;
+}
+
+.gameNumber {
+    text-align: left;
+    color: blue;
+    font-size: 52px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    margin-top: 20px;
+    margin-right: 1100px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    background-color: rosybrown;
+}
+
+ul {
+
+    color: blue;
+    font-size: 24;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding: 30px;
+    background-color: blueviolet;
+    margin-top: 20px;
+    margin-right: 1000px;
+    margin-bottom: 20px;
+    margin-left: 30;
+
+
+
+}
+
+#crystal1 {
+    height: 200px;
+    width: 150px
+}
+
+#crystal2 {
+    height: 200px;
+    width: 150px;
+}
+
+#crystal3 {
+    height: 200px;
+    width: 150px;
+}
+
+#crystal4 {
+    height: 200;
+    width: 150px;
+}
+
+.totalScoreText {
+    font-size: 24;
+    background-color: palevioletred;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+    margin-right: 800px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.totalScore {
+    font-size: 52;
+    background-color: palevioletred;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+    margin-right: 800px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}

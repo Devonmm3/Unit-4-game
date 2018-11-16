@@ -1,0 +1,56 @@
+<!DOCTYPE <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Crystal Guessing Game</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      media="screen"
+      href="assets/css/style.css"
+    />
+  </head>
+  <body>
+    <h1>Crazy Crystal Collection Game!!</h1>
+    <h2>
+      Click on the Crystals and get your score to match the Computer's number!
+    </h2>
+    <div class="container">
+      <h3>Instructions:</h3>
+
+      <p>You will be given a random number at the start of the game.</p>
+      <p>
+        There are four crystals below. Each one has a hidden number, and when
+        you click it, a specific number of points will be added to your total
+        score, which is displayed in the box at the bottom.
+      </p>
+      <p>
+        To win the game, you need your total score to match the random number.
+        If your total score is above the random number, you lose. Don't worry
+        though! The game will reset, there will be new mystery numbers to click
+        and you can start again.
+      </p>
+    </div>
+
+    <div class="gameNumber">0</div>
+    <ul>
+      <li>Wins:</li>
+      <li>Loses:</li>
+    </ul>
+
+    <div class="buttons">
+      <img class="crystal" id="crystal1" src="assets/images/crystal1.png" />
+      <img class="crystal" id="crystal2" src="assets/images/crystal2.jpeg" />
+      <img class="crystal" id="crystal3" src="assets/images/crystal3.png" />
+      <img class="crystal" id="crystal4" src="assets/images/crystal4.jpg" />
+    </div>
+    <div class="totalScoreText">Your total score is:</div>
+
+    <div class="totalScore">0</div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="assets/javascript/game.js"></script>
+  </body>
+</html>
