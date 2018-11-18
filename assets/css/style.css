@@ -45,7 +45,7 @@ h2 {
     margin-right: 400px;
     margin-bottom: 0px;
     margin-left: 400px;
-    background-color: aliceblue;
+    background-color: pink;
 }
 
 h3 {
@@ -68,7 +68,9 @@ p {
     margin-right: 500px;
     margin-bottom: 20px;
     margin-left: 600px;
-    background-color: rosybrown;
+    background-color: violet;
+
+
 }
 
 ul {
@@ -79,58 +81,66 @@ ul {
     padding-left: 30px;
     padding-bottom: 10px;
     padding: 30px;
-    background-color: blueviolet;
-    margin-top: 20px;
+    background-color: pink;
+    margin-top: 0px;
     margin-right: 500px;
     margin-bottom: 20px;
     margin-left: 600px;
-
-
-
 }
 
 #crystal1 {
-    height: 200px;
-    width: 150px
+    height: 150px;
+    width: 100px
 }
 
 #crystal2 {
-    height: 200px;
-    width: 150px;
+    height: 150px;
+    width: 100px;
+
 }
 
 #crystal3 {
-    height: 200px;
-    width: 150px;
+    height: 150px;
+    width: 100px;
 }
 
 #crystal4 {
-    height: 200;
-    width: 150px;
+    height: 150px;
+    width: 100px;
 }
+
+.buttons {
+    margin-top: 0px;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+
 
 .totalScoreText {
     font-size: 24;
-    background-color: palevioletred;
+    color: blue;
+    background-color: violet;
     padding-top: 20px;
     padding-left: 20px;
     padding-bottom: 20px;
     padding-right: 20px;
     margin-top: 20px;
-    margin-right: 800px;
+    margin-right: 500px;
     margin-bottom: 20px;
-    margin-left: 20px;
+    margin-left: 500px;
 }
 
 #totalScore {
     font-size: 52;
-    background-color: palevioletred;
+    color: blue;
+    background-color: violet;
     padding-top: 20px;
     padding-left: 20px;
     padding-bottom: 20px;
     padding-right: 20px;
     margin-top: 20px;
-    margin-right: 800px;
+    margin-right: 600px;
     margin-bottom: 20px;
-    margin-left: 20px;
+    margin-left: 500px;
 }
